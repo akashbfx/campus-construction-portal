@@ -114,7 +114,7 @@ export default function AdminDashboard() {
     <div>
       <div className="page-header">
         <h1>Admin Dashboard</h1>
-        <p>Welcome back, Dr. Rajesh Sharma — Here&apos;s your project overview</p>
+        <p>Welcome back, Dr. Prasad Krishna — Here&apos;s your project overview</p>
       </div>
 
       {/* Stats Grid */}
