@@ -6,7 +6,7 @@
 export const users = {
   admin: {
     id: 'U001',
-    name: 'Dr. Rajesh Sharma',
+    name: 'Dr. Prasad Krishna',
     role: 'admin',
     title: 'Director',
     email: 'director@campus.edu',
@@ -14,7 +14,7 @@ export const users = {
   },
   engineering: {
     id: 'U002',
-    name: 'Er. Ankit Verma',
+    name: 'Er. Viswanath',
     role: 'engineering',
     title: 'Superintending Engineer',
     email: 'se@campus.edu',
@@ -33,20 +33,21 @@ export const users = {
 // --- Project Passport ---
 export const projectPassport = {
   id: 'PRJ-2025-001',
-  projectName: 'New Boys Hostel — Block C',
+  projectName: 'New Mega Ladies Hostel',
   buildingId: 'BLD-C-2025',
   blockName: 'Block C',
   geoLocation: { lat: 28.6139, lng: 77.209 },
-  numberOfFloors: 'G+4',
-  totalArea: '12,500 sq.ft',
+  numberOfFloors: 'G+9',
+  totalArea: '17179.20 m²',
   yearOfConstruction: 2025,
   startDate: '2025-03-15',
-  expectedCompletionDate: '2026-08-30',
+  expectedCompletionDate: '2027-03-15',
   currentStage: 'Structure',
   engineers: [
-    { name: 'Er. Ankit Verma', role: 'SE', phone: '9876543210' },
-    { name: 'Er. Priya Singh', role: 'EE', phone: '9876543211' },
-    { name: 'Er. Suresh Yadav', role: 'JE', phone: '9876543212' },
+    { name: 'Er. S. Sreenesh', role: 'SE', phone: '9876543210' },
+    { name: 'Er. P. K. Jose', role: 'EE', phone: '9876543211' },
+    { name: 'Er. M. Viswanath', role: 'EE', phone: '9876543212' },
+     { name: 'Vinod R', role: 'JE', phone: '9876543212' },
   ],
   contractor: {
     name: 'M/s BuildRight Constructions',
