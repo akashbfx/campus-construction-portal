@@ -39,7 +39,7 @@ export default function Landing() {
             <div className="project-header">
               <div className="project-icon">🏛️</div>
               <div>
-                <h3 style={{ fontSize: '1rem', fontWeight: 600 }}>Boys Hostel — Block C</h3>
+                <h3 style={{ fontSize: '1rem', fontWeight: 600 }}>New Meaga Ladies Hostel</h3>
                 <p style={{ fontSize: '0.8rem', color: 'var(--gray-500)' }}>Project ID: PRJ-2025-001</p>
               </div>
               <span className="badge badge-yellow" style={{ marginLeft: 'auto' }}>In Progress</span>
@@ -55,15 +55,15 @@ export default function Landing() {
             </div>
             <div className="mini-stats">
               <div className="mini-stat">
-                <div className="ms-value">G+4</div>
+                <div className="ms-value">G+9</div>
                 <div className="ms-label">Floors</div>
               </div>
               <div className="mini-stat">
-                <div className="ms-value">₹8.5 Cr</div>
+                <div className="ms-value">₹71.6 Cr</div>
                 <div className="ms-label">Budget</div>
               </div>
               <div className="mini-stat">
-                <div className="ms-value">45</div>
+                <div className="ms-value">200</div>
                 <div className="ms-label">Workers</div>
               </div>
             </div>
