@@ -44,10 +44,16 @@ export const projectPassport = {
   expectedCompletionDate: '2027-03-15',
   currentStage: 'Structure',
   engineers: [
+    { name: 'Er. M. Viswanath', role: 'Technical Officer - Civil / EE(Civil)', phone: '9876543212' },
     { name: 'Er. S. Sreenesh', role: 'SE', phone: '9876543210' },
     { name: 'Er. P. K. Jose', role: 'EE', phone: '9876543211' },
-    { name: 'Er. M. Viswanath', role: 'EE', phone: '9876543212' },
-     { name: 'Vinod R', role: 'JE', phone: '9876543212' },
+    { name: 'Er. Harikrishna V', role: 'Junior Engineer', phone: '9876543210' },
+    { name: 'Er. Gopika M', role: 'Junior Engineer', phone: '9876543210' },
+    { name: 'Er. Keerthy M', role: 'Junior Engineer', phone: '9876543210' },
+    { name: 'Er. Hanu Chandran', role: 'Junior Engineer', phone: '9876543210' },
+    { name: 'Er. Amina Salim', role: 'Junior Engineer', phone: '9876543210' },
+    { name: 'Er. Safiya Daliya Ahammed', role: 'Junior Engineer', phone: '9876543210' },
+    { name: 'Er. Suranya T', role: 'Junior Engineer', phone: '9876543210' },
   ],
   contractor: {
     name: 'M/s BuildRight Constructions',
