@@ -57,9 +57,9 @@ export const projectPassport = {
     license: 'CON-2024-7849',
     address: '45, Industrial Area, Sector 12, New Delhi',
   },
-  budgetAllocated: 85000000,
-  budgetUsed: 32500000,
-  budgetRemaining: 52500000,
+  budgetAllocated: 716000000,
+  budgetUsed: 325000000,
+  budgetRemaining: 391000000,
   progressPercentage: 38,
   status: 'In Progress',
   milestones: [
@@ -132,9 +132,9 @@ export const initialSiteDiary = [
 
 // --- Financial Data ---
 export const financialData = {
-  totalAllocated: 85000000,
-  totalBooked: 32500000,
-  available: 52500000,
+  totalAllocated: 716000000,
+  totalBooked: 325000000,
+  available: 391000000,
   bills: [
     { id: 'B001', description: 'RA Bill No. 1 — Foundation Work', amount: 12500000, date: '2025-06-15', status: 'paid', contractor: 'M/s BuildRight Constructions' },
     { id: 'B002', description: 'RA Bill No. 2 — G.F. Structure', amount: 15000000, date: '2025-09-20', status: 'paid', contractor: 'M/s BuildRight Constructions' },
